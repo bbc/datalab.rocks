@@ -1,6 +1,4 @@
-## Welcome to BBC Datalab
-
-### Come and work with us!
+## Come and work with us!
 
 BBC is embarking on an ambitious and exciting _Connected Data Strategy_ that will enable the reinvention and digital transformation of the BBC. Data will play an vital role in achieving this and we must invest in building a data capability with audience interests at its heart. Our products reach hundreds of millions of users around the world, with billions of page views and video plays each week.  
 
