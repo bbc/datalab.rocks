@@ -20,4 +20,14 @@ We have a number of role available on our careers site:
 
 [IOS Engineer](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-iOS-Apps-Connected-Data-Machine-Learning/25545)
 
+[Lead Architect - Data Management](http://careerssearch.bbc.co.uk/jobs/job/Lead-Architect-Data-Management/25051)
+
+[Executive Product Manager - Datalab](http://careerssearch.bbc.co.uk/jobs/job/Executive-Product-Manager-Datalab/23853)
+
+[Lead Engineer (Machine Learning) BBC DataLab](http://careerssearch.bbc.co.uk/jobs/job/Lead-Engineer-Machine-Learning-BBC-DataLab/22346)
+
+[Data Scientist](http://careerssearch.bbc.co.uk/jobs/job/Data-Scientist/22345)
+
+[Lead Data Scientist](http://careerssearch.bbc.co.uk/jobs/job/Lead-Data-Scientist/22293)
+
 _BBC Datalab_
