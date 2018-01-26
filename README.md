@@ -10,24 +10,8 @@ We are looking for a range of skills so if you have a demonstrable experience an
 
 You’ll have the opportunity to engage with engineers working on other BBC apps and services, tapping into the wealth of knowledge and experience of an organisation already serving a vast global audience.  Learning is an important part of the role, and you’ll have access to BBC Academy training programmes, the opportunity to attend technology conferences, and use other resources to progress as an engineer.
 
-We have a number of role available on our careers site:
+We are looking for: senior Android software engineers, senior iOS software engineers, Android software engineers, iOS engineers, lead architect (data management), executive product manager, lead engineer (machine learning), data scientists, and a lead data scientist to build a diverse team. 
 
-[Senior Android Software engineer](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-Android-Apps-Connected-Data-Machine-Learning/25558)
-
-[Android Engineer](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-Android-Apps-Connected-Data-Machine-Learning/25558)
-
-[Senior iOS Software Engineer](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-Android-Apps-Connected-Data-Machine-Learning/25558)
-
-[IOS Engineer](http://careerssearch.bbc.co.uk/jobs/job/Software-Engineer-iOS-Apps-Connected-Data-Machine-Learning/25545)
-
-[Lead Architect - Data Management](http://careerssearch.bbc.co.uk/jobs/job/Lead-Architect-Data-Management/25051)
-
-[Executive Product Manager - Datalab](http://careerssearch.bbc.co.uk/jobs/job/Executive-Product-Manager-Datalab/23853)
-
-[Lead Engineer (Machine Learning) BBC DataLab](http://careerssearch.bbc.co.uk/jobs/job/Lead-Engineer-Machine-Learning-BBC-DataLab/22346)
-
-[Data Scientist](http://careerssearch.bbc.co.uk/jobs/job/Data-Scientist/22345)
-
-[Lead Data Scientist](http://careerssearch.bbc.co.uk/jobs/job/Lead-Data-Scientist/22293)
+For more details email datalab @ bbc.co.uk
 
 _BBC Datalab_
