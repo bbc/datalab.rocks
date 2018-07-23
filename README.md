@@ -10,7 +10,7 @@ We are looking for a range of skills so if you have a demonstrable experience an
 
 You’ll have the opportunity to engage with engineers working on other BBC apps and services, tapping into the wealth of knowledge and experience of an organisation already serving a vast global audience.  Learning is an important part of the role, and you’ll have access to BBC Academy training programmes, the opportunity to attend technology conferences, and use other resources to progress as an engineer.
 
-We are looking for: _senior Android software engineers, senior iOS software engineers, Android software engineers, iOS engineers, lead data architect, executive product manager (datalab), and lead data engineer (machine learning)_ to build a diverse team. 
+We are looking for: _senior Android software engineers, senior iOS software engineers, Android software engineers, iOS engineers, lead data architect, executive product manager (datalab), lead data engineer (machine learning), and data scientist or senior data scientist natural language understanding_ to build a diverse team. 
 
 For more details email datalab @ bbc.co.uk
 
