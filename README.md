@@ -16,7 +16,7 @@ For more details email datalab @ bbc.co.uk
 
 _BBC Datalab_
 
-## Some of the stuff we have recently been talking and writing about:
+### Some of the stuff we have recently been talking and writing about:
 - Beth has been writing about building on GCP: https://medium.com/@betandr/how-we-deliver-with-gcp-at-the-bbc-1c9812acf3a1
 - Theo has been talking about semantic web and linked data: https://www.youtube.com/watch?v=fz3YEX8NgtI
 - Gabriel has been writing and talking about how to use data science in businesses: https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business, https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver
