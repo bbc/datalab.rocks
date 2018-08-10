@@ -1,0 +1,21 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <img style="display: block; margin-top: 1em; margin-bottom: 1em; margin-left: auto; margin-right: auto; width: 60%;" src="datalab.svg" />
+
+    <nav class="site-nav">
+      {% for link in site.data.navigation.main %}
+        {% if link.url contains "http" %}
+          {% assign url = link.url %}
+        {% else %}
+          {% assign url = link.url | relative_url %}
+        {% endif %}
+        <a class="page-link" href="{{ url }}">{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+
+  </div>
+
+</header>
+ 
