@@ -14,7 +14,7 @@ The BBC Datalab was formed to address these issues, amongst others, by creating 
 
 - [Gabriel has been writing and talking about how to use data science in businesses](https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business) and [here](https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver)
 
-- We have also been running the [Machine Learning Fireside Chats](https://findouthow.datalab.rocks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
+- We have also been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
 
 ---
 
