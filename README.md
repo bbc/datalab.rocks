@@ -8,11 +8,11 @@ The BBC Datalab was formed to address these issues, amongst others, by creating 
 
 ### learn more about our work
 
-- [Beth has been writing about building on Google Cloud Platform:](https://medium.com/@betandr/how-we-deliver-with-gcp-at-the-bbc-1c9812acf3a1)  
+- [Beth has been writing about building on Google Cloud Platform](https://medium.com/@betandr/how-we-deliver-with-gcp-at-the-bbc-1c9812acf3a1)  
 
-- [Theo has been talking about semantic web and linked data:](https://www.youtube.com/watch?v=fz3YEX8NgtI)
+- [Theo has been talking about semantic web and linked data](https://www.youtube.com/watch?v=fz3YEX8NgtI)
 
-- [Gabriel has been writing and talking about how to use data science in businesses:](https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business) and [here](https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver) 
+- [Gabriel has been writing and talking about how to use data science in businesses](https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business) and [here](https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver) 
 
 ---
 
