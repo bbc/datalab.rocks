@@ -18,7 +18,7 @@ The BBC Datalab was formed to address these issues, amongst others, by creating 
 
 ---
 
-## team values
+## our team values
 
 **We are ambitious and tenacious**
 
