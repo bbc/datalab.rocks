@@ -68,6 +68,9 @@ We are looking for:
 
 - executive product manager (datalab)
 - lead data engineer (machine learning)
+- senior project manager agile
+- data scientist or senior data scientist
+- data engineer or senior data engineer
 - data scientist or senior data scientist with natural language understanding
 
 For more details email datalab @ bbc.co.uk
