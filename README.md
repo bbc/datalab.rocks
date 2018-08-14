@@ -54,7 +54,7 @@ We adopt only those processes that help us progress.  Pragmatism first: we chang
 
 ---
 
-![Datalab team](https://github.com/jukesie/jukesie.github.io/blob/master/images/screenshot-twitter.com-2018.08.06-17-21-05.png)
+![Datalab team](https://github.com/bbc/datalab.rocks/blob/master/screenshot-twitter.com-2018.08.06-17-21-05.png)
 
 ## join us
 
