@@ -66,11 +66,11 @@ You’ll have the opportunity to engage with engineers working on other BBC apps
 
 We are looking for: 
 
-- executive product manager (datalab)
-- lead data engineer (machine learning)
-- senior project manager agile
-- data scientist or senior data scientist
-- data engineer or senior data engineer
-- data scientist or senior data scientist with natural language understanding
+- **executive product manager (datalab)**: we are looking for a product leader to develop data products and services that support the ambitions of multiple pan-BBC technical and editorial strategies. You'll need to partner with other BBC teams teams to solve problems and identify opportunities coming from data, automation and machine learning. The perfect candidate would have experience of building high performing teams with a focus on data (rather than audience facing) products.
+- **lead data engineer (machine learning):** the Datalab needs an inspiring engineering lead who has deep technical knowledge and experience (or a willingness) to take on the people management side of things. This role will be responsible for a talented team of up to ten engineers working on a stack that includes Google Cloud Platform, Python and Kubernetes with a commitment to micro-services and infrastructure as code. 
+- **senior project manager agile**: we need an experienced agile practitioner to help the Datalab team fulfil their potential. You will know which agile or lean tools and techniques to use according to the context without being slavish to any particular approach. The right candidate will know that a happy team will produce the most amazing work, they will be skilled at building trust, managing team dynamics and motivating people.
+- **data scientist or senior data scientist**
+- **data engineer or senior data engineer**
+- **data scientist or senior data scientist with natural language understanding**
 
 For more details email datalab @ bbc.co.uk
