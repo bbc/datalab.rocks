@@ -16,6 +16,8 @@ The BBC Datalab was formed to address these issues, amongst others, by creating 
 
 - [Tatiana has been talking about http vs gRPC](https://www.youtube.com/watch?v=-weU0Zy4Yd8)
 
+- [We have developed an introduction to DS training that you might enjoy] (https://github.com/bbc/datalab-ml-training)
+
 - We have also been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
 
 ---
