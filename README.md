@@ -12,11 +12,11 @@ The BBC Datalab was formed to address these issues, amongst others, by creating 
 
 - [Theo has been talking about semantic web and linked data](https://www.youtube.com/watch?v=fz3YEX8NgtI)
 
-- [Gabriel has been writing and talking about how to use data science in businesses](https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business) and [here](https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver)
+- [Gabriel has been talking about how to use data science to help businesses](https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business) and [has also written on that topic](https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver)
 
 - [Tatiana has been talking about http vs gRPC](https://www.youtube.com/watch?v=-weU0Zy4Yd8)
 
-- [We have developed an introduction to DS training that you might enjoy](https://github.com/bbc/datalab-ml-training)
+- [Felix wrote about why we decided to open source](https://medium.com/bbc-design-engineering/data-science-and-machine-learning-course-3f00629212b7) our [internally developed 'Introduction to Data Science' training](https://github.com/bbc/datalab-ml-training)
 
 - We have also been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
 
