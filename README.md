@@ -12,7 +12,7 @@ The BBC Datalab was formed to address these issues, amongst others, by creating 
 
 - [Theo has been talking about semantic web and linked data](https://www.youtube.com/watch?v=fz3YEX8NgtI)
 
-- [Gabriel has been talking about how to use data science to help businesses](https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business) and [has also written on that topic](https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver)
+- [Gabriel has been talking about how to use data science to help businesses](https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business) and [has also written on that topic.](https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver) [He has also been speaking about how to use a focus product in order to build ML capability in an organisation.](https://www.youtube.com/watch?v=dmlgc534SpE)
 
 - [Tatiana has been talking about http vs gRPC](https://www.youtube.com/watch?v=-weU0Zy4Yd8)
 
