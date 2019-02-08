@@ -15,13 +15,21 @@ For this quarter our team objectives are:
 ### learn more about our work
 
 - [Beth has been writing about building on Google Cloud Platform](https://medium.com/@betandr/how-we-deliver-with-gcp-at-the-bbc-1c9812acf3a1)  
+
 - [Theo has been talking about semantic web and linked data](https://www.youtube.com/watch?v=fz3YEX8NgtI)
+
 - [Gabriel has been talking about how to use data science to help businesses](https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business) and [has also written on that topic.](https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver) He has also been speaking about [how to use a focus product in order to build ML capability in an organisation.](https://www.youtube.com/watch?v=dmlgc534SpE)
+
 - [Tatiana has been talking about http vs gRPC](https://www.youtube.com/watch?v=-weU0Zy4Yd8)
+
 - [Felix wrote about why we decided to open source](https://medium.com/bbc-design-engineering/data-science-and-machine-learning-course-3f00629212b7) our [internally developed 'Introduction to Data Science' training](https://github.com/bbc/datalab-ml-training)
+
 - [Lana wrote about the challenges of and our approaches to building the BBC's first fully algorithmically driven but editorially supervised product](http://www.bbc.co.uk/blogs/internet/entries/a26a25af-4012-4f00-9fe9-2cc639a76340)
+
 - [James wrote about building BBC+, an experimental approach to creating a BBC that is unique for each audience member](http://www.bbc.co.uk/blogs/internet/entries/82cd8d1e-2f23-4eff-8f34-0ef38ca8854c)
+
 - We have been organising [24h Hackathons at the BBC focussed on machine learning and diversity](https://dms.licdn.com/playback/C4D00AQEfY8HwI7HhvQ/b90fdb31a4f942298cf5d258aa69d50f/feedshare-mp4_3300/1488578169071-zmy00q?e=1549731600&v=beta&t=P8HGRYCyP-X-Jw2rSPnpgJcyxb8LkdcFfJtO8v-FO8o)
+
 - We have also been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
 
 ---
