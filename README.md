@@ -6,9 +6,9 @@ The BBC Datalab was formed to address these issues, by creating a simpler way to
 
 In December 2018 we launched the first completely algorithmically driven (but editorially supervised) product in the BBC. While this is still very much an experimental platform with an audience experience that will still evolve, it provides an insight into the broader capability we are building. You can download it [here for iPhone](https://itunes.apple.com/gb/app/bbc/id1110317391) and [here for Android](https://play.google.com/store/apps/details?id=uk.co.bbc.bbc_plus&hl=en_US). 
 
-For this quarter our team objectives are:
-1) Make it easy for BBC teams to rapidly develop and deploy Machine Learning engines
-2) Provide great recommendations across multiple products beyond BBC+
+For this quarter our team objectives are: <br>
+1. Make it easy for BBC teams to rapidly develop and deploy Machine Learning engines <br>
+2. Provide great recommendations across multiple products beyond BBC+
 
 
 ### learn more about our work
