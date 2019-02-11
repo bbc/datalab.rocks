@@ -28,7 +28,7 @@ For this quarter our team objectives are:
 
 - [James wrote about building BBC+, an experimental approach to creating a BBC that is unique for each audience member](http://www.bbc.co.uk/blogs/internet/entries/82cd8d1e-2f23-4eff-8f34-0ef38ca8854c)
 
-- We have been organising [24h Hackathons at the BBC focussed on machine learning and diversity](https://dms.licdn.com/playback/C4D00AQEfY8HwI7HhvQ/b90fdb31a4f942298cf5d258aa69d50f/feedshare-mp4_3300/1488578169071-zmy00q?e=1549731600&v=beta&t=P8HGRYCyP-X-Jw2rSPnpgJcyxb8LkdcFfJtO8v-FO8o)
+- We have been organising [24h Hackathons at the BBC focussed on machine learning and diversity](https://www.dropbox.com/s/90wg5y14brcohev/HACKATHON_EXTERNAL.mov?dl=0)
 
 - We have also been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
 
