@@ -7,7 +7,7 @@ Yet the vows of this organisation can only be fulfilled if this organisation is 
 
 We set sail on this new sea because there is new knowledge to be gained, and new rights to be won, and they must be won and used for the progress of all people. For machine learning, like broadcasting and all technology, has no conscience of its own. Whether it will become a force for good or ill depends on people, and only if the BBC occupies a position of pre-eminence can we help decide whether this new ocean will be a sea of truth and democratisation or a new terrifying theatre of disinformation and manipulation. 
 
-Shamelessly plagiarized from John F. Kennedy Moon Speech - Rice Stadium (https://er.jsc.nasa.gov/seh/ricetalk.htm) 
+Shamelessly plagiarized from [John F. Kennedy Moon Speech - Rice Stadium](https://er.jsc.nasa.gov/seh/ricetalk.htm) 
 
 ## about datalab
 
