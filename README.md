@@ -1,3 +1,14 @@
+## machine learning at the BBC
+The developments in Machine Learning will go ahead, whether we join in it or not, and it is one of the great adventures of all time, and no organisation which expects to be a leader in the media industry can expect to stay behind.
+
+Those who came before us made certain that this organisation rode the first waves of the broadcasting revolutions: the first waves of radio, the first waves of television, and the first wave of online news; and this generation does not intend to founder in the backwash of the coming age of Machine Learning. We mean to be a part of it--we mean to lead it. For the eyes of the world now look into online media, and we have vowed that we shall not see it governed by private commercial interests alone, but also under a banner of true public service. 
+
+Yet the vows of this organisation can only be fulfilled if this organisation is first, and, therefore, we intend to be first. In short, our leadership in the broadcasting industry and in technology, our hopes to put public interests first, our obligations under our charter and in our editorial guidelines, all require us to make this effort, to solve these mysteries, to solve them for the good of all people, and to become one of the world's leading Machine Learning organisation.
+
+We set sail on this new sea because there is new knowledge to be gained, and new rights to be won, and they must be won and used for the progress of all people. For machine learning, like broadcasting and all technology, has no conscience of its own. Whether it will become a force for good or ill depends on people, and only if the BBC occupies a position of pre-eminence can we help decide whether this new ocean will be a sea of truth and democratisation or a new terrifying theatre of disinformation and manipulation. 
+
+Shamelessly plagiarized from John F. Kennedy Moon Speech - Rice Stadium (https://er.jsc.nasa.gov/seh/ricetalk.htm) 
+
 ## about datalab
 
 BBC audiences expect the best content to be available to them in a single place, personalised to their preferences and interests. At the moment this is difficult for us to achieve, since our content and audience data is distributed across systems that are hard to connect. We're also missing metadata about lots of our programmes, which makes them difficult to discover. We're currently unable to properly engage the next generation of TV license fee payers, many of whom already have less affinity with the BBC than the rest of the UK population.
@@ -6,10 +17,10 @@ Datalab was formed to address these issues, by creating a simpler way to discove
 
 In December 2018 we launched the first completely algorithmically driven (but editorially supervised) product in the BBC. While this is an experimental platform with an audience experience that will continue to evolve, it provides an insight into the broader capability we are building. You can download it [here for iPhone](https://itunes.apple.com/gb/app/bbc/id1110317391) and [here for Android](https://play.google.com/store/apps/details?id=uk.co.bbc.bbc_plus&hl=en_US). 
 
-For this quarter our team objectives are:
+Our team objectives are:
 
 1. Make it easy for BBC teams to rapidly develop and deploy Machine Learning engines
-2. Provide great recommendations across multiple products beyond BBC+
+2. Provide great recommendations across multiple BBC products
 
 
 ### learn more about our work
@@ -86,6 +97,7 @@ We are looking for:
 - **lead data engineer:** the Datalab needs an inspiring engineering lead who has deep technical knowledge and experience (or a willingness) to take on the people management side of things. This role will be responsible for a talented team of up to ten engineers working on a stack that includes Google Cloud Platform, Python and Kubernetes, with a commitment infrastructure as code. 
 - **data scientist or senior data scientist:** we need someone to help us develop new recommendation engines that work with text, audio and video. You will also help us enrich content by using machine learning to extract what the content is about. You know key machine learning algorithms well and are comfortable in putting these in use in production systems that serve millions of customers. Cloud (GCP), containers, CI/CD pipelines and Python are things that excite you.
 - **data scientist, senior data scientist or lead data scientist (voice):** we need someone to help us bring machine learning to our voice (think alexa and google home) proposition. You have experience with extracting meaning from text, information retrieval, recommendation engines or conversational UIs and are excited to work embedded in a product team. These roles are ideally based out of Glasgow.
-- **data engineer or senior data engineer:** you will help us create a data and machine learning environment that can scale to millions of users. You will help integrate new data sources and ensure that the code we write is robust and scalable. You have a keen interest in machine learning (but not necessarily previous experience). You are excited and knowledgeable about a tech stack that includes Google Cloud Platform, Python and Kubernetes with a commitment to micro-services and infrastructure as code. 
+- **data engineer or senior data engineer:** you will help us create a data and machine learning environment that can scale to millions of users. You will help integrate new data sources and ensure that the code we write is robust and scalable. You have a keen interest in machine learning (but not necessarily previous experience). You are excited and knowledgeable about a tech stack that includes Google Cloud Platform, Python and Kubernetes with a commitment to micro-services and infrastructure as code.
+- **project coordinator:** you will help us make sure that the right agile processes are in place to run the team. You will support ceremonies such as stand ups and retrospectives and work with our delivery and product team to make sure everyone in the team knows what is expected of them and feels supported.
 
 For more details email datalab @ bbc.co.uk
