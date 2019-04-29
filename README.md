@@ -96,6 +96,5 @@ You’ll engage with engineers working on other BBC apps and services, tapping i
 We are looking for: 
 - **lead data engineer:** the Datalab needs an inspiring engineering lead who has deep technical knowledge and experience (or a willingness) to take on the people management side of things. This role will be responsible for a talented team of up to ten engineers working on a stack that includes Google Cloud Platform, Python and Kubernetes, with a commitment infrastructure as code. 
 - **data engineer or senior data engineer:** you will help us create a data and machine learning environment that can scale to millions of users. You will help integrate new data sources and ensure that the code we write is robust and scalable. You have a keen interest in machine learning (but not necessarily previous experience). You are excited and knowledgeable about a tech stack that includes Google Cloud Platform, Python and Kubernetes with a commitment to micro-services and infrastructure as code.
-- **project coordinator:** you will help us make sure that the right agile processes are in place to run the team. You will support ceremonies such as stand ups and retrospectives and work with our delivery and product team to make sure everyone in the team knows what is expected of them and feels supported.
 
 For more details email datalab @ bbc.co.uk
