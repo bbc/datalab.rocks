@@ -41,6 +41,8 @@ Our team objectives are:
 
 - [James wrote about building BBC+, an experimental approach to creating a BBC that is unique for each audience member](http://www.bbc.co.uk/blogs/internet/entries/82cd8d1e-2f23-4eff-8f34-0ef38ca8854c)
 
+- [Jon has been talking about data science frameworks and managed services](https://www.youtube.com/watch?v=IZ8CBwP5nlA&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=45&t=0s)
+
 - We have been organising [24h Hackathons at the BBC focussed on machine learning and diversity](https://www.dropbox.com/s/90wg5y14brcohev/HACKATHON_EXTERNAL.mov?dl=0)
 
 - We have also been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
