@@ -24,28 +24,30 @@ Our team objectives are:
 
 
 ### learn more about our work
+- We have also been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
 
-- [Beth has been writing about building on Google Cloud Platform](https://medium.com/@betandr/how-we-deliver-with-gcp-at-the-bbc-1c9812acf3a1)  
-
-- [Theo has been talking about semantic web and linked data](https://www.youtube.com/watch?v=fz3YEX8NgtI)
-
-- [Gabriel has been talking about how to use data science to help businesses](https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business) and [has also written on that topic.](https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver) He has also been speaking about [how to use a focus product in order to build ML capability in an organisation.](https://www.youtube.com/watch?v=dmlgc534SpE)
-
-- [Gabriel was interviewed by DataFramed about data science at the BBC](https://www.datacamp.com/community/podcast/data-science-bbc)
-
-- [Tatiana has been talking about http vs gRPC](https://www.youtube.com/watch?v=-weU0Zy4Yd8)
-
-- [Felix wrote about why we decided to open source](https://medium.com/bbc-design-engineering/data-science-and-machine-learning-course-3f00629212b7) our [internally developed 'Introduction to Data Science' training](https://github.com/bbc/datalab-ml-training)
-
-- [Lana wrote about the challenges of and our approaches to building the BBC's first fully algorithmically driven but editorially supervised product](http://www.bbc.co.uk/blogs/internet/entries/a26a25af-4012-4f00-9fe9-2cc639a76340)
-
-- [James wrote about building BBC+, an experimental approach to creating a BBC that is unique for each audience member](http://www.bbc.co.uk/blogs/internet/entries/82cd8d1e-2f23-4eff-8f34-0ef38ca8854c)
+- [Jana wrote about developing personalised recommender systems at the BBC] (https://medium.com/bbc-design-engineering/developing-personalised-recommender-systems-at-the-bbc-e26c5e0c4216)
 
 - [Jon has been talking about data science frameworks and managed services](https://www.youtube.com/watch?v=IZ8CBwP5nlA&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=45&t=0s)
 
 - We have been organising [24h Hackathons at the BBC focussed on machine learning and diversity](https://www.dropbox.com/s/90wg5y14brcohev/HACKATHON_EXTERNAL.mov?dl=0)
 
-- We have also been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
+- [James wrote about building BBC+, an experimental approach to creating a BBC that is unique for each audience member](http://www.bbc.co.uk/blogs/internet/entries/82cd8d1e-2f23-4eff-8f34-0ef38ca8854c)
+
+- [Lana wrote about the challenges of and our approaches to building the BBC's first fully algorithmically driven but editorially supervised product](http://www.bbc.co.uk/blogs/internet/entries/a26a25af-4012-4f00-9fe9-2cc639a76340)
+
+- [Felix wrote about why we decided to open source](https://medium.com/bbc-design-engineering/data-science-and-machine-learning-course-3f00629212b7) our [internally developed 'Introduction to Data Science' training](https://github.com/bbc/datalab-ml-training)
+
+- [Tatiana has been talking about http vs gRPC](https://www.youtube.com/watch?v=-weU0Zy4Yd8)
+
+- [Gabriel was interviewed by DataFramed about data science at the BBC](https://www.datacamp.com/community/podcast/data-science-bbc)
+
+- [Gabriel has been talking about how to use data science to help businesses](https://www.london.edu/faculty-and-research/lbsr/iie-podcast-how-data-science-can-boost-business) and [has also written on that topic.](https://www.london.edu/faculty-and-research/lbsr/making-big-data-deliver) He has also been speaking about [how to use a focus product in order to build ML capability in an organisation.](https://www.youtube.com/watch?v=dmlgc534SpE)
+
+- [Theo has been talking about semantic web and linked data](https://www.youtube.com/watch?v=fz3YEX8NgtI)
+
+- [Beth has been writing about building on Google Cloud Platform](https://medium.com/@betandr/how-we-deliver-with-gcp-at-the-bbc-1c9812acf3a1)  
+
 
 ---
 
