@@ -26,7 +26,7 @@ Our team objectives are:
 ### learn more about our work
 - We have also been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
 
-- [Jana wrote about developing personalised recommender systems at the BBC] (https://medium.com/bbc-design-engineering/developing-personalised-recommender-systems-at-the-bbc-e26c5e0c4216)
+- [Jana wrote about developing personalised recommender systems at the BBC](https://medium.com/bbc-design-engineering/developing-personalised-recommender-systems-at-the-bbc-e26c5e0c4216)
 
 - [Jon has been talking about data science frameworks and managed services](https://www.youtube.com/watch?v=IZ8CBwP5nlA&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=45&t=0s)
 
