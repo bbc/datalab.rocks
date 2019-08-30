@@ -26,6 +26,8 @@ Our team objectives are:
 ### learn more about our work
 - We have been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
 
+- [Anna, Ewan and Svetlana share their experience about the collaboration between the editorial and data science colleagues within Datalab](https://www.bbc.co.uk/blogs/internet/entries/a38207dd-e4ed-40fa-8bdf-aebe1dc74c28)
+
 - [Jana wrote about developing personalised recommender systems at the BBC](https://medium.com/bbc-design-engineering/developing-personalised-recommender-systems-at-the-bbc-e26c5e0c4216)
 
 - [Jon has been talking about data science frameworks and managed services](https://www.youtube.com/watch?v=IZ8CBwP5nlA&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=45&t=0s)
@@ -46,8 +48,7 @@ Our team objectives are:
 
 - [Theo has been talking about semantic web and linked data](https://www.youtube.com/watch?v=fz3YEX8NgtI)
 
-- [Beth has been writing about building on Google Cloud Platform](https://medium.com/@betandr/how-we-deliver-with-gcp-at-the-bbc-1c9812acf3a1)  
-
+- [Beth has been writing about building on Google Cloud Platform](https://medium.com/@betandr/how-we-deliver-with-gcp-at-the-bbc-1c9812acf3a1)
 
 ---
 
