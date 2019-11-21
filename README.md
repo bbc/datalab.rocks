@@ -27,7 +27,7 @@ Our team objectives are:
 
 - Gabriel described our approach to [scaling responsible Machine Learning at the BBC](https://www.bbc.co.uk/blogs/internet/entries/4a31d36d-fd0c-4401-b464-d249376aafd1)
 
-- We have been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML
+- We have been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML. [These discussions are also available as podcasts.](https://soundcloud.com/bbcmachinelearningpodcast)
 
 - [Anna, Ewan and Svetlana share their experience about the collaboration between the editorial and data science colleagues within Datalab](https://www.bbc.co.uk/blogs/internet/entries/a38207dd-e4ed-40fa-8bdf-aebe1dc74c28)
 
