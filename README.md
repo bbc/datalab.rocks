@@ -97,14 +97,5 @@ We adopt only those processes that help us progress.  Pragmatism first: we chang
 
 ![Datalab team](team.jpg)
 
-## join us
-
-We are aiming high and have an open brief to define what works best for our audience. We want to stay lean and move quickly to build, test and learn as we go, so your contribution will make a difference from day one. We want everyone to feel responsible for our collective success.
-
-You’ll engage with engineers working on other BBC apps and services, tapping into the wealth of knowledge and experience of an organisation already serving a vast global audience. Learning is an important part of the role, and you’ll have access to BBC Academy training programmes, along with the opportunity to attend technology conferences and use other resources to progress.
-
-We are looking for: 
-- **data engineer or senior data engineer:** you will help us create a data and machine learning environment that can scale to millions of users. You will help integrate new data sources and ensure that the code we write is robust and scalable. You have a keen interest in machine learning (but not necessarily previous experience). You are excited and knowledgeable about a tech stack that includes Google Cloud Platform, Python and Kubernetes with a commitment to micro-services and infrastructure as code.
-- **senior product manager:** you love product work: vision, stakeholder management, roadmapping, negotiating, and everything around turning ideas and hypothesis into usable applications.  You will work with Data Scientists, Engineers, Delivery and Editorial team members to make BBC content more personal for users, and systems more nimble for BBC team members. You already have a passion for working with data and machine learning systems, and with the vision and drive to make change happen.
 
 For more details email datalab @ bbc.co.uk
