@@ -25,6 +25,8 @@ Our team objectives are:
 
 ### learn more about our work
 
+- Sinead talked about [the BBC AI & ML Community supporting responsible machine learning](https://youtu.be/SnFpDS3-I3w)
+
 - Bettina was interviewed by Voice Magazine to talk about [life as a data scientist.](https://www.voicemag.uk/interview/6642/want-my-job-with-bettina-hermant-data-scientist)
 
 - Gabriel described our approach to [scaling responsible Machine Learning at the BBC](https://www.bbc.co.uk/blogs/internet/entries/4a31d36d-fd0c-4401-b464-d249376aafd1)
