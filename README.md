@@ -1,29 +1,36 @@
-## machine learning at the BBC
-The developments in Machine Learning will go ahead, whether we join in it or not, and it is one of the great adventures of all time, and no organisation which expects to be a leader in the media industry can expect to stay behind.
+## Machine learning at the BBC
+The developments in artificial intelligence (AI) and machine learning (ML) are amongst the great adventures of our time, and any organisation which expects to be a leader in the media industry must embrace these new technologies. The BBC rode the first waves of the broadcasting revolutions: with radio, television, and online. We mean to be [a part of the coming age of machine learning](https://www.bbc.co.uk/blogs/internet/entries/b2106d78-762c-403a-901a-2e34894c3ac1).
 
-Those who came before us made certain that this organisation rode the first waves of the broadcasting revolutions: the first waves of radio, the first waves of television, and the first wave of online news; and this generation does not intend to founder in the backwash of the coming age of Machine Learning. We mean to be a part of it--we mean to lead it. For the eyes of the world now look into online media, and we have vowed that we shall not see it governed by private commercial interests alone, but also under a banner of true public service. 
+Audiences expect the best content to be available to them through seamless digital experiences, personalised to their preferences and interests. At the BBC, there is a vast quantity of content to offer our audiences - news, sport, weather, entertainment, programmes, audio, children’s, food, learning, and local. 
 
-Yet the vows of this organisation can only be fulfilled if this organisation is first, and, therefore, we intend to be first. In short, our leadership in the broadcasting industry and in technology, our hopes to put public interests first, our obligations under our charter and in our editorial guidelines, all require us to make this effort, to solve these mysteries, to solve them for the good of all people, and to become one of the world's leading Machine Learning organisation.
+We want to harness our knowledge about our content, combine it with machine learning, and help our audiences easily find content they will love, whether that’s something new or a hidden gem from our impressive back catalogue.
 
-We set sail on this new sea because there is new knowledge to be gained, and new rights to be won, and they must be won and used for the progress of all people. For machine learning, like broadcasting and all technology, has no conscience of its own. Whether it will become a force for good or ill depends on people, and only if the BBC occupies a position of pre-eminence can we help decide whether this new ocean will be a sea of truth and democratisation or a new terrifying theatre of disinformation and manipulation. 
+---
 
-Shamelessly plagiarized from [John F. Kennedy Moon Speech - Rice Stadium](https://er.jsc.nasa.gov/seh/ricetalk.htm) 
+## About BBC Datalab
 
-## about datalab
+Based all around the UK, we’re the team at the BBC that uses data and [responsible machine learning](https://www.bbc.co.uk/blogs/internet/entries/4a31d36d-fd0c-4401-b464-d249376aafd1) to help our audiences find relevant content. We want to ensure that audiences of all ages and backgrounds are able to easily engage with the entire BBC universe of rich and varied content, by excelling at combining our editorial expertise with machine learning. 
 
-BBC audiences expect the best content to be available to them in a single place, personalised to their preferences and interests. At the moment this is difficult for us to achieve, since our content and audience data is distributed across systems that are hard to connect. We're also missing metadata about lots of our programmes, which makes them difficult to discover. We're currently unable to properly engage the next generation of TV license fee payers, many of whom already have less affinity with the BBC than the rest of the UK population.
+Practically, this means taking a collaborative approach. Our data scientists and engineers collaborate closely with editorial colleagues, user experience, product, as well as collaboration with other teams across the BBC.
 
-Datalab was formed to address these issues, by creating a simpler way to discover content. We are doing this by bringing all of our data together into one place, and by using machine learning to enrich it. As we do this, we become able to match our programming with individuals' interests and context. Our approach is to build a data platform that can be extended by other BBC teams, and which allows many different products to create consistent and relevant experiences for audiences. 
-
-In December 2018 we launched the first completely algorithmically driven (but editorially supervised) product in the BBC. While this is an experimental platform with an audience experience that will continue to evolve, it provides an insight into the broader capability we are building. You can download it [here for iPhone](https://itunes.apple.com/gb/app/bbc/id1110317391) and [here for Android](https://play.google.com/store/apps/details?id=uk.co.bbc.bbc_plus&hl=en_US). 
-
-Our team objectives are:
-
-1. Make it easy for BBC teams to rapidly develop and deploy Machine Learning engines
-2. Provide great recommendations across multiple BBC products
+We recently launched the first fully personalised in-house recommendation engine for [BBC Sounds](https://www.bbc.co.uk/sounds), and developed content-based recommendation engines for BBC News and World Service.
 
 
-### learn more about our work
+In 2021, our objectives are to:
+
+1. Help BBC audiences find personally-relevant content by providing high-quality and reliable recommendations
+2. Reduce the time, effort, and cost required to make the BBC relevant for each audience member
+3. Make Datalab the most professionally challenging and rewarding place to work
+
+---
+
+## We're hiring!
+
+We're currently looking for a **Principal Data Scientist** to join our team. A Principal Data Scientist is T-Shaped, mixing a breadth and depth of knowledge. Along with helping to put machine learning into production at BBC scale, you'll be expected to make the data science team around you better, by being a coach, a mentor, and a communicator. Find out more and apply [here](https://www.linkedin.com/jobs/view/2453007467/). 
+
+---
+
+### Learn more about our work
 
 - Sinead talked about [the BBC AI & ML Community supporting responsible machine learning](https://youtu.be/SnFpDS3-I3w)
 
@@ -59,7 +66,7 @@ Our team objectives are:
 
 ---
 
-## our team values
+## Our team values
 
 **We are ambitious and tenacious**
 
@@ -100,4 +107,4 @@ We adopt only those processes that help us progress.  Pragmatism first: we chang
 ![Datalab team](team.jpg)
 
 
-For more details email datalab @ bbc.co.uk
+Want to find out more about our work? Please email datalab @ bbc.co.uk or follow us on [Twitter](https://twitter.com/bbcdatalab).
