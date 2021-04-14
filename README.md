@@ -26,7 +26,9 @@ In 2021, our objectives are to:
 
 ## We're hiring!
 
-We're currently looking for a **Principal Data Scientist** to join our team. A Principal Data Scientist is T-Shaped, mixing a breadth and depth of knowledge. Along with helping to put machine learning into production at BBC scale, you'll be expected to make the data science team around you better, by being a coach, a mentor, and a communicator. Find out more and apply [here](https://www.linkedin.com/jobs/view/2453007467/). 
+We're looking for a **Senior Data Scientist** to help us develop machine learning solutions that will provide value to the BBC audience at BBC scale. This is a hands-on role as part of a cross-functional team, where you would use your technical skills to deliver value to the BBC’s audience. Find out more and apply [here](https://careerssearch.bbc.co.uk/jobs/job/Senior-Data-Scientist/53164).
+
+We're also looking for a **Principal Data Scientist** who can not only help us put machine learning into production at BBC scale, but also make the data science team around them better by being a coach, a mentor, and a communicator. Find out more and apply [here](https://careerssearch.bbc.co.uk/jobs/job/Principal-Data-Scientist-Datalab/52881). 
 
 ---
 
