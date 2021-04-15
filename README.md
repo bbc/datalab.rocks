@@ -106,7 +106,7 @@ We adopt only those processes that help us progress.  Pragmatism first: we chang
 
 ---
 
-![Datalab team](team.jpg)
+![Datalab team](team-2021.png)
 
 
 Want to find out more about our work? Please email datalab @ bbc.co.uk or follow us on [Twitter](https://twitter.com/bbcdatalab).
