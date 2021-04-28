@@ -26,11 +26,9 @@ In 2021, our objectives are to:
 
 ## We're hiring!
 
-We've got a number of exciting opportunities available within BBC Datalab right now, including leadership and individual contributor roles. You can learn more about machine learning careers in Datalab [here](https://canvas-story.bbcrewind.co.uk/datalab-careers-ml/).
+We've got some exciting opportunities available within BBC Datalab right now, including leadership and individual contributor roles. You can learn more about machine learning careers in Datalab [here](https://canvas-story.bbcrewind.co.uk/datalab-careers-ml/).
 
 - We're looking for a **Lead Data Scientist** to lead and manage all the data scientists in the Datalab team. This is a rare and exciting opportunity to join the Datalab Leadership team. Apply [here](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=53308).
-
-- We're looking for a **Principal Data Scientist** who can not only help us put machine learning into production at BBC scale, but also make the data science team around them better by being a coach, a mentor, and a communicator. Apply [here](https://careerssearch.bbc.co.uk/jobs/job/Principal-Data-Scientist-Datalab/52881).
 
 - We're looking for a **Senior Data Scientist** to help us develop machine learning solutions that will provide value to the BBC audience at BBC scale. This is a hands-on role as part of a cross-functional team, where you would use your technical skills to deliver value to the BBC’s audience. Apply [here](https://careerssearch.bbc.co.uk/jobs/job/Senior-Data-Scientist/53164).
 
