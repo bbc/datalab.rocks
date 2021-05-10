@@ -27,6 +27,7 @@ In 2021, our objectives are to:
 ### Learn more about our work
 
 #### Machine learning at the BBC
+
 - Gabriel described our approach to [scaling responsible Machine Learning at the BBC](https://www.bbc.co.uk/blogs/internet/entries/4a31d36d-fd0c-4401-b464-d249376aafd1)
 
 - [Anna, Ewan and Svetlana share their experience about the collaboration between the editorial and data science colleagues within Datalab](https://www.bbc.co.uk/blogs/internet/entries/a38207dd-e4ed-40fa-8bdf-aebe1dc74c28)
@@ -52,7 +53,13 @@ In 2021, our objectives are to:
 
 #### Careers, community, and learning
 
+- Megan has been [co-hosting a new monthly data science podcast called "AI Right?"](https://open.spotify.com/show/4bRuzmU97MWPDTf2FxkEEc) 
+
 - Richard has been writing [a series of articles on fundamental algorithms in machine learning](https://machinelearned.medium.com)
+
+- Myrna was [interviewed by the RE•WORK podcast about her career path into responsible AI](https://www.youtube.com/watch?v=ztDwpCpHRp8)
+
+- Christina was [featured on the Verified Geek podcast talking about how to get a job in data science](https://www.buzzsprout.com/1522516/7858450-christina-boididou-what-is-data-science-how-can-you-get-a-job-in-data-science)
 
 - Jean created a microsite profiling [members of BBC Datalab and their machine learning careers](https://canvas-story.bbcrewind.co.uk/datalab-careers-ml/)
 
