@@ -13,7 +13,7 @@ Based all around the UK, we’re the team at the BBC that uses data and [respons
 
 Practically, this means taking a collaborative approach. Our data scientists and engineers collaborate closely with editorial colleagues, user experience, product, as well as collaboration with other teams across the BBC.
 
-We recently launched the first fully personalised in-house recommendation engine for [BBC Sounds](https://www.bbc.co.uk/sounds), and developed content-based recommendation engines for BBC News and World Service.
+We recently launched the first fully personalised in-house recommendation engine for [BBC Sounds](https://www.bbc.co.uk/sounds) and developed content-based recommendation engines for BBC News and World Service.
 
 
 In 2021, our objectives are to:
@@ -26,13 +26,8 @@ In 2021, our objectives are to:
 
 ### Learn more about our work
 
-- Sinead talked about [the BBC AI & ML Community supporting responsible machine learning](https://youtu.be/SnFpDS3-I3w)
-
-- Bettina was interviewed by Voice Magazine to talk about [life as a data scientist.](https://www.voicemag.uk/interview/6642/want-my-job-with-bettina-hermant-data-scientist)
-
+#### Machine learning at the BBC
 - Gabriel described our approach to [scaling responsible Machine Learning at the BBC](https://www.bbc.co.uk/blogs/internet/entries/4a31d36d-fd0c-4401-b464-d249376aafd1)
-
-- We have been running the [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML. [These discussions are also available as podcasts.](https://soundcloud.com/bbcmachinelearningpodcast)
 
 - [Anna, Ewan and Svetlana share their experience about the collaboration between the editorial and data science colleagues within Datalab](https://www.bbc.co.uk/blogs/internet/entries/a38207dd-e4ed-40fa-8bdf-aebe1dc74c28)
 
@@ -40,13 +35,9 @@ In 2021, our objectives are to:
 
 - [Jon has been talking about data science frameworks and managed services](https://www.youtube.com/watch?v=IZ8CBwP5nlA&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=45&t=0s)
 
-- We have been organising [24h Hackathons at the BBC focussed on machine learning and diversity](https://www.dropbox.com/s/90wg5y14brcohev/HACKATHON_EXTERNAL.mov?dl=0)
-
 - [James wrote about building BBC+, an experimental approach to creating a BBC that is unique for each audience member](http://www.bbc.co.uk/blogs/internet/entries/82cd8d1e-2f23-4eff-8f34-0ef38ca8854c)
 
 - [Lana wrote about the challenges of and our approaches to building the BBC's first fully algorithmically driven but editorially supervised product](http://www.bbc.co.uk/blogs/internet/entries/a26a25af-4012-4f00-9fe9-2cc639a76340)
-
-- [Felix wrote about why we decided to open source](https://medium.com/bbc-design-engineering/data-science-and-machine-learning-course-3f00629212b7) our [internally developed 'Introduction to Data Science' training](https://github.com/bbc/datalab-ml-training)
 
 - [Tatiana has been talking about http vs gRPC](https://www.youtube.com/watch?v=-weU0Zy4Yd8)
 
@@ -57,6 +48,25 @@ In 2021, our objectives are to:
 - [Theo has been talking about semantic web and linked data](https://www.youtube.com/watch?v=fz3YEX8NgtI)
 
 - [Beth has been writing about building on Google Cloud Platform](https://medium.com/@betandr/how-we-deliver-with-gcp-at-the-bbc-1c9812acf3a1)
+
+
+#### Careers, community, and learning
+
+- Richard has been writing [a series of articles on fundamental algorithms in machine learning](https://machinelearned.medium.com)
+
+- Jean created a microsite profiling [members of BBC Datalab and their machine learning careers](https://canvas-story.bbcrewind.co.uk/datalab-careers-ml/)
+
+- Nicholas was interviewed about doing his Data Science Apprenticeship in BBC Datalab (https://info.cambridgespark.com/latest/tech-skills-and-business-impact-with-apprenticeship-at-bbc)
+
+- Sinead talked about [the BBC AI & ML Community supporting responsible machine learning](https://youtu.be/SnFpDS3-I3w)
+
+- [Bettina](https://www.voicemag.uk/interview/6642/want-my-job-with-bettina-hermant-data-scientist) and [Aqsa](https://www.voicemag.uk/interview/6827/interview-with-aqsa-awan-technical-project-manager-for-bbc-datalab) were both interviewed by Voice Magazine to talk about their work in Datalab
+
+- We previously organised [24h Hackathons at the BBC focussed on machine learning and diversity](https://www.dropbox.com/s/90wg5y14brcohev/HACKATHON_EXTERNAL.mov?dl=0)
+
+- Felix wrote about [why we decided to open source](https://medium.com/bbc-design-engineering/data-science-and-machine-learning-course-3f00629212b7) our [internally developed 'Introduction to Data Science' training](https://github.com/bbc/datalab-ml-training)
+
+- We previously ran [Machine Learning Fireside Chats](https://www.meetup.com/Machine-learning-Fireside-Talks/) where we invite experts to discuss interesting questions on the strategic and ethical implications of ML. [These discussions are also available as podcasts.](https://soundcloud.com/bbcmachinelearningpodcast)
 
 ---
 
