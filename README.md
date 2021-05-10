@@ -56,7 +56,7 @@ In 2021, our objectives are to:
 
 - Jean created a microsite profiling [members of BBC Datalab and their machine learning careers](https://canvas-story.bbcrewind.co.uk/datalab-careers-ml/)
 
-- Nicholas was interviewed about doing his Data Science Apprenticeship in BBC Datalab (https://info.cambridgespark.com/latest/tech-skills-and-business-impact-with-apprenticeship-at-bbc)
+- Nicholas was [interviewed about doing his Data Science Apprenticeship in BBC Datalab](https://info.cambridgespark.com/latest/tech-skills-and-business-impact-with-apprenticeship-at-bbc)
 
 - Sinead talked about [the BBC AI & ML Community supporting responsible machine learning](https://youtu.be/SnFpDS3-I3w)
 
