@@ -23,6 +23,11 @@ In 2021, our objectives are to:
 3. Make Datalab the most professionally challenging and rewarding place to work
 
 ---
+## We're hiring!
+
+- We're looking for a **Senior Software Engineer** to help us create a data and machine learning environment that can scale to millions of users. Find out more and apply [here](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=53758).
+
+---
 
 ### Learn more about our work
 
