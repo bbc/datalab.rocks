@@ -26,7 +26,8 @@ In 2021, our objectives are to:
 ## We're hiring!
 
 - We're looking for a **Senior Software Engineer** to help us create a data and machine learning environment that can scale to millions of users. Find out more and apply [here](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=53758). Applications will be accepted until 8 August 2021.
-- We're looking for a **Senior Design Researcher** to shape and deliver a design research programme around algorithmic recommendations. This is the first role of its kind in our team! While you'll work day-to-day within Datalab, you’ll receive professional support from BBC UX&D, a department of UX designers, architects and researchers who collaborate closely with product, editorial and technical teams from across the BBC. Find our more and apply [here](https://careerssearch.bbc.co.uk/jobs/job/Senior-Design-Researcher-Algorithmic-Recommendations/55271). Applications will be accepted until 30 August 2021.
+
+- We're looking for a **Senior Design Researcher** to shape and deliver a design research programme around algorithmic recommendations. This is the first role of its kind in our team! While you'll work day-to-day within Datalab, you’ll receive professional support from BBC UX&D, a department of UX designers, architects and researchers who collaborate closely with product, editorial and technical teams from across the BBC. Find our more and apply [here](https://careerssearch.bbc.co.uk/jobs/job/Senior-Design-Researcher-Algorithmic-Recommendations/55271). Applications will be accepted until 22 August 2021.
 
 ---
 
