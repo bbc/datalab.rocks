@@ -25,7 +25,9 @@ In 2021, our objectives are to:
 ---
 ## We're hiring!
 
-- We're looking for a **Senior Software Engineer** to help us create a data and machine learning environment that can scale to millions of users. Find out more and apply [here](https://careershub.bbc.co.uk/members/modules/job/detail.php?record=53758). Applications will be accepted until 14 September 2021.
+We're looking for a **Senior Software Engineer** and a **Senior Data Engineer** to help us create a data and machine learning environment that can scale to millions of users. You will help integrate new data sources and ensure that the code we write is robust and scalable. You have a keen interest in machine learning (but not necessarily previous experience). You are excited and knowledgeable about a tech stack that includes Google Cloud Platform, Python and Kubernetes with a commitment to micro-services and infrastructure as code.
+
+Apply [here for the Senior Software Engineer role](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Datalab/53758) and [here for the Senior Data Engineer role](https://careerssearch.bbc.co.uk/jobs/job/Senior-Data-Engineer-DataLab/55816).
 
 ---
 
