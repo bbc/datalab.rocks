@@ -13,7 +13,7 @@ Based all around the UK, we’re the team at the BBC that uses data and [respons
 
 Practically, this means taking a collaborative approach. Our data scientists and engineers collaborate closely with editorial colleagues, user experience, product, as well as collaboration with other teams across the BBC.
 
-We recently launched the first fully personalised in-house recommendation engine for [BBC Sounds](https://www.bbc.co.uk/sounds) and developed content-based recommendation engines for BBC News and World Service.
+We recently launched the first [fully personalised in-house recommendation engine for BBC Sounds](https://www.bbc.co.uk/sounds) and the first [cross-product recommendation engine for BBC Sport and News short-form videos](https://www.bbc.co.uk/blogs/internet/entries/f74ea410-5ec4-4add-9daa-a29d25176ccd). We've also developed content-based recommendation engines for BBC News and World Service.
 
 
 In 2021, our objectives are to:
@@ -25,9 +25,11 @@ In 2021, our objectives are to:
 ---
 ## We're hiring!
 
-We're looking for a **Senior Software Engineer** and a **Senior Data Engineer** to help us create a data and machine learning environment that can scale to millions of users. You will help integrate new data sources and ensure that the code we write is robust and scalable. You have a keen interest in machine learning (but not necessarily previous experience). You are excited and knowledgeable about a tech stack that includes Google Cloud Platform, Python and Kubernetes with a commitment to micro-services and infrastructure as code.
+We have several engineering vacancies in our teams at the moment at various seniority levels. Come help us create a data and machine learning environment that can scale to millions of users. You will help integrate new data sources and ensure that the code we write is robust and scalable. You have a keen interest in machine learning (but not necessarily previous experience). You are excited and knowledgeable about a tech stack that includes Google Cloud Platform, Python and Kubernetes with a commitment to micro-services and infrastructure as code.
 
-Apply [here for the Senior Software Engineer role](https://careerssearch.bbc.co.uk/jobs/job/Senior-Software-Engineer-Datalab/53758) and [here for the Senior Data Engineer role](https://careerssearch.bbc.co.uk/jobs/job/Senior-Data-Engineer-DataLab/55816).
+- [Senior Data Engineer (permanent)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Data-Engineer-DataLab/55816)
+- [Principal Data Engineer (fixed-term)](https://careerssearch.bbc.co.uk/jobs/job/Principal-Data-Engineer-Datalab/56012)
+- [Senior Data Engineer (fixed-term)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Data-Engineer-Datalab/56013) 
 
 ---
 
