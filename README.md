@@ -23,15 +23,6 @@ In 2021, our objectives are to:
 3. Make Datalab the most professionally challenging and rewarding place to work
 
 ---
-## We're hiring!
-
-We have several engineering vacancies in our teams at the moment at various seniority levels. Come help us create a data and machine learning environment that can scale to millions of users. You will help integrate new data sources and ensure that the code we write is robust and scalable. You have a keen interest in machine learning (but not necessarily previous experience). You are excited and knowledgeable about a tech stack that includes Google Cloud Platform, Python and Kubernetes with a commitment to micro-services and infrastructure as code.
-
-- [Senior Data Engineer (permanent)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Data-Engineer-DataLab/55816)
-- [Principal Data Engineer (fixed-term)](https://careerssearch.bbc.co.uk/jobs/job/Principal-Data-Engineer-Datalab/56012)
-- [Senior Data Engineer (fixed-term)](https://careerssearch.bbc.co.uk/jobs/job/Senior-Data-Engineer-Datalab/56013) 
-
----
 
 ### Learn more about our work
 
